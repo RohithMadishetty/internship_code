@@ -18,6 +18,7 @@ function changeDialValue (index, incrementBy) {
 
 	if (count == 4) {
 		lockState.locked = false
+		// redirecting to my index.html
 	redirect('rohith-madishetty');
 	}
 	
